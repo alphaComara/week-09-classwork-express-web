@@ -12,3 +12,4 @@ GET https://api.github.com/repos/SummerOfCode2020/week-03-tdd-strict-equal/pulls
 
 ### a 404 example
 GET https://github.com/foobarpath
+GET  
